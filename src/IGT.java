@@ -1,5 +1,5 @@
 
-public class GIT2 {
+public class IGT {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
